@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the code and assets for the lenna.ai test
+Speedrun code 15min
 
 ## Screenshots
 
@@ -12,9 +13,6 @@ This repository contains the code and assets for the lenna.ai test
 
 
 ## Getting Started
-
-[Provide instructions on how to clone, install dependencies, and run the project.]
-
 ```bash
 git clone https://github.com/AlfandaviAU/lenna.ai-test.git
 cd lenna.ai-test
